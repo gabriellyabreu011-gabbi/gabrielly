@@ -47,3 +47,16 @@ main {
   line-height: 1.6;
   backdrop-filter: blur(6px);
 }
+
+.foto-section {
+  text-align: center;
+  margin-top: 24px;
+}
+
+.foto-section img {
+  width: 100%;
+  max-width: 680px;
+  border-radius: 18px;
+  border: 5px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+}
