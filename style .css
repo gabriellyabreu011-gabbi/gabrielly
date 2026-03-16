@@ -1,0 +1,13 @@
+body {
+background-color: #a15e9e; /* Lilás bem clarinho */
+font-family: Arial, sans-serif;
+text-align: center;
+color: #333;
+paddingc: 20px;
+}
+h1 {
+color: #3f71a6; /* Azul escuro */
+} 
+img{border: 5px solid #da3e5; 
+    border-radius:15px;
+    margin-top:25px;}
